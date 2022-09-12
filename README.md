@@ -1,7 +1,7 @@
 # Django-Python-Starter-Kit-for-Beginner
 
 Django was invented by Lawrence Journal-World in 2003, Initial release to the public was in July 2005. Latest version of Django is 4.0.3 (March 2022).
-
+This repository will help you, when you will get ready. 
 ## What is Django?
 
 Django is a Python framework that makes it easier to create web sites using Python. Django takes care of the difficult stuff so that you can concentrate on building your web applications.
